@@ -22,3 +22,8 @@ I'm currently studying Cybersecurity at Wroclaw University of Science and Techno
 [![](https://visitcount.itsvg.in/api?id=JakubStankiewicz1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p align="center">
+  <img src="https://github.com/JakubStankiewicz1/JakubStankiewicz1/blob/output/github-snake-dark.svg">
+</p>
